@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/nvl_kishor)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/nvl_kishor)-->
 ![](https://leetcard.jacoblin.cool/nvl_kishor?ext=activity)
