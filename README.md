@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nvl_kishor)
+![](https://leetcard.jacoblin.cool/nvl_kishor?ext=activity)
