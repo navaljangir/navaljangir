@@ -12,12 +12,11 @@ I'm currently building with Next.JS<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=navaljangir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navaljangir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=navaljangir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nvl_kishor?theme=dark&font=Noto%20Sans%20Sharada&ext=heatmap)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
