@@ -18,4 +18,6 @@ I'm currently building with Next.JS<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=navaljangir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/nvl_kishor?theme=dark&font=Noto%20Sans%20Sharada&ext=heatmap)
+
